@@ -166,8 +166,8 @@ Then I did the same for the shareholders.
 Present this SQL data as a readable table showing shareholder name, share percentage and share class.
 I was able to read the private salary of every employee and the ownership structure of the entire hospital.
 I also confirmed that the Author field in the PDF metadata, j.malik, corresponds to Jameel Malik, the IT Systems Administrator listed in the staff table. This connects all three milestones in a single attack chain.
-[ Screenshot: Screenshot: ChatGPT output showing staff salary table ]
-[ Screenshot: Screenshot: ChatGPT output showing shareholder table ]
+
+
 
 
 4. Full Attack Chain Summary
