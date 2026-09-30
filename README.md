@@ -170,6 +170,8 @@ I also confirmed that the Author field in the PDF metadata, j.malik, corresponds
 
 
 
+
+
 4. Full Attack Chain Summary
 The following is the complete path from zero access to full data exposure, showing how each finding led to the next.
 • Step 1: Robots.txt revealed three hidden folders: /patient, /staff, and /old.
